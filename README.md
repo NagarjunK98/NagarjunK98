@@ -1,6 +1,6 @@
 # Hello, I'm [Nagarjun K] 👋
 
-I am a Cloud Data Engineer with experience in SQL, Python, GCP, Spark, Data Warehouse, and ELT/ETL. Currently, I am working at Pluto7 as a data engineer with over 2.9 years of experience.
+I have been working as a GCP data engineer for the past 3+ years, and I have a strong track record of building and maintaining end-to-end ELT/ETL data pipelines and experience working in the supply chain and inventory domain projects. In my current organization, I am responsible for designing, developing, and implementing data pipelines that ingested data from a variety of sources, including SQL Server, PostgreSQL, SAP, and APIs, File based and loaded it into GCP data warehouse and data lake. I also worked on developing and maintaining data quality checks and metrics for the data pipelines and monitoring them. 
 
 ## Skills
 
@@ -30,6 +30,11 @@ requirements gathering, data model creation, and designing technical design docu
 - Develop ETL workflows and optimize data ingestion processes.
 - Orchestrated data pipelines using Cloud Composer/Apache Airflow 
 - Perform data quality checks and ensure data integrity and consistency.
+
+## Awards
+
+
+I have been awarded one **Performance award** and two **Spot awards** in my current organization for the quality of work delivered in customer and internal projects.
 
 ## Contact
 
