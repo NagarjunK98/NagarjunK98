@@ -11,6 +11,8 @@ I have been working as a GCP data engineer for the past 3.7+ years, and I have a
 - **Data Lake**: Google Cloud Storage, ADLS Gen2
 - **Job Orchestrator**: Apache Airflow
 - **Databases**: SQL Server, MySQL, Cloud SQL
+- **IaC**: Terraform
+- **DevOps tools**: GitLab
 - **Frameworks**: FastAPI
 
 ## Experience
