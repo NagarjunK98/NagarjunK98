@@ -1,22 +1,23 @@
 # Hello, I'm [Nagarjun K] 👋
 
-I have been working as a GCP data engineer for the past 3+ years, and I have a strong track record of building and maintaining end-to-end ELT/ETL data pipelines and experience working in the supply chain and inventory domain projects. In my current organization, I am responsible for designing, developing, and implementing data pipelines that ingested data from a variety of sources, including SQL Server, PostgreSQL, SAP, and APIs, File based and loaded it into GCP data warehouse and data lake. I also worked on developing and maintaining data quality checks and metrics for the data pipelines and monitoring them. 
+I have been working as a GCP data engineer for the past 3.7+ years, and I have a strong track record of building and maintaining end-to-end ELT/ETL data pipelines and experience working in the supply chain and inventory domain projects. In my current organization, I am responsible for designing, developing, and implementing data pipelines that ingested data from a variety of sources, including SQL Server, PostgreSQL, SAP, and APIs, File based and loaded it into GCP data warehouse and data lake. I also worked on developing and maintaining data quality checks and metrics for the data pipelines and monitoring them. 
 
 ## Skills
 
-- Programming Languages: SQL, Python, PySpark
-- Cloud: Google Cloud Platform (GCP), Azure, Databricks
-- Big Data: Apache Spark, Hive, HDFS
-- Data Warehouse: BigQuery
-- Job Orchestrator: Apache Airflow
-- Databases: SQL Server, MySQL, Cloud SQL
-- Frameworks: FastAPI
+- **Programming Languages**: SQL, Python, PySpark
+- **Cloud**: Google Cloud Platform (GCP), Azure, Databricks
+- **Big Data**: Apache Spark, Hive, HDFS
+- **Data Warehouse**: BigQuery
+- **Data Lake**: Google Cloud Storage, ADLS Gen2
+- **Job Orchestrator**: Apache Airflow
+- **Databases**: SQL Server, MySQL, Cloud SQL
+- **Frameworks**: FastAPI
 
 ## Experience
 
 **Data Engineer at Pluto7**
 
-*Dates: [Nov-2020] - Present*
+*Dates: [Nov-2020] - [Oct-2023]*
 
 - Designed and developed automated data pipelines (ELT/ETL) to replicate data from various source systems, such as
 SQL Server, PostgreSQL, SAP ECC, and APIs into BigQuery using Dataproc and Data Fusion services, and jobs were
