@@ -17,6 +17,9 @@ I have been working as a GCP data engineer for the past 3.10+ years, and I have 
 
 ## Experience
 
+**GCP Data Engineer at BT GRoup**
+*Dates: [Nov-2023] - [Present]*
+
 **Data Engineer at Pluto7**
 
 *Dates: [Nov-2020] - [Oct-2023]*
