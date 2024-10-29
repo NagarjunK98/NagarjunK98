@@ -1,6 +1,6 @@
 # Hello, I'm [Nagarjun K] 👋
 
-I have been working as a GCP data engineer for the past 3.10+ years, and I have a strong track record of building and maintaining end-to-end ELT/ETL data pipelines and experience working in the supply chain and inventory domain projects. In my current organization, I am responsible for designing, developing, and implementing data pipelines that ingested data from a variety of sources, including SQL Server, PostgreSQL, SAP, and APIs, File based and loaded it into GCP data warehouse and data lake. I also worked on developing and maintaining data quality checks and metrics for the data pipelines and monitoring them. 
+I have been working as a GCP data engineer for the past 4+ years, and I have a strong track record of building and maintaining end-to-end ELT/ETL data pipelines and experience working in the supply chain and inventory domain projects. In my current organization, I am responsible for designing, developing, and implementing data pipelines that ingested data from a variety of sources, including SQL Server, PostgreSQL, SAP, and APIs, File based and loaded it into GCP data warehouse and data lake. I also worked on developing and maintaining data quality checks and metrics for the data pipelines and monitoring them. 
 
 ## Skills
 
